@@ -1,4 +1,4 @@
-## Bem vindo ao meu perfil
+### Bem vindo ao meu perfil
 
 Meu nome é **Raphael Pimenta** 
 
@@ -10,6 +10,6 @@ Meu nome é **Raphael Pimenta**
 
 ## Você pode entrar em contato comigo 📫
 
-raphaelpimenta08@gmail.com
+00001079503924sp@al.educacao.sp.gov.br
 
 @raaphael_ara
